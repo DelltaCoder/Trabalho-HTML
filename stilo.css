@@ -1,0 +1,131 @@
+body{
+    background-color: black;
+}
+
+.fed{
+    position: sticky;
+    float: left;
+    left: 10;
+    top: 10px;
+}
+
+.f1{
+    position: sticky;
+    top: 15px;
+    right: 10px;
+    float: right;
+}
+
+.titulo{
+    top: 25px;
+    font-size: 25px;
+    text-align: center;
+    color: Red;
+    position: sticky;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sep{
+    position: sticky;
+    text-align: center;
+    top: 50px;
+}
+
+table{
+    position: absolute;
+    left: 400px;
+    border: 3px solid black;
+    top: 200px;
+    text-align: center;
+    width: 1100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bahrein{
+    text-align: center;
+    Color: rgb(255, 0, 0);
+    top: 200px;
+    width: 100px;
+    font-size: 30px;
+}
+
+.gp-aus{
+    top: 600;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.australia{
+    text-align: center;
+    color: blue; 
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gp-arabia{
+    top:1000;
+}
+
+.arabia{
+    text-align: center;
+    color: rgb(0, 255, 0); 
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tes{
+    
+    text-align:center;
+    background-color: rgb(255, 255, 255);
+    height: 80px
+    
+}   
+
+.sim{
+    position: absolute;
+    left: 1400px;
+    top: 10px;
+}
+
+.imga{
+    position: absolute;
+    text-align: left;
+    top: 10px
+}    
+
+.tab{
+    font-family: 'Courier New', Courier, monospace;
+    top: 1400px;
+    margin-top: 30px;
+    font-size: 15px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
+
+.tab2{
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    top: 2000px;
+}
+
+.tab3{
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    top: 2350px;
+}
+
+.tar{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
+.pts{
+    text-align: center;
+}
+
+.metop10{
+    color: red;
+}
